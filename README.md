@@ -1,8 +1,13 @@
 
 ![ Data Analyst and Data specialist](https://sdmntprpolandcentral.oaiusercontent.com/files/00000000-7e50-620a-aaa6-2ffa3a8b2df0/raw?se=2025-07-26T01%3A51%3A04Z&sp=r&sv=2024-08-04&sr=b&scid=2406ba5c-881e-5221-85a9-1cb0384b3c86&skoid=0da8417a-a4c3-4a19-9b05-b82cee9d8868&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-25T20%3A40%3A45Z&ske=2025-07-26T20%3A40%3A45Z&sks=b&skv=2024-08-04&sig=BUuWunmK8X9Aeg13xpjnkK02TwqkVxAKNo4L6fSBPC4%3D)
 
-I'm someone who enjoys working with data , not just for the numbers, but to understand people and improve real-life outcomes.
- My most recent project explored why people stop paying for their life insurance policies.
+Hi, I’m Victoria, and I love using data to uncover insights and improve decisions.
+
+My passion for data began when I was promoted from the Customer Service department to the Premium Administration team, where I worked with large volumes of policy and billing data. That shift opened my eyes to the power of data in driving business decisions and solving real-world problems.
+
+Since then, I’ve used Excel functions like VLOOKUP, CONCATENATE, and TRANSPOSE to clean and organize data, prevent billing errors, and reduce overdeductions by 60%. Every task has shown me the value of data in driving business growth, and it has motivated me to take the next step.
+
+I’m now transitioning into Data Analytics, learning new tools and building a career focused on using data to solve problems, support decision-making and create value
 
 
 ---
@@ -13,8 +18,6 @@ I'm someone who enjoys working with data , not just for the numbers, but to unde
 INCO Academy Capstone Championship (2025)  
 
 ---
-
-I love digging into data to solve real-world problems. In my latest project, I explored why people let their life insurance policies lapse and how companies can reduce it. I used **R** and a curious mind to turn patterns into actionable recommendations.
 
 Now, I’m ready to bring that same energy into a data analyst role and I’m open to opportunities worldwide 🌍
 
