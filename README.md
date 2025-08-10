@@ -1,4 +1,4 @@
-
+![image alt](https://github.com/vickiebonnie/vickiebonnie/blob/f549be9a548c2c116bf6c90c1c3da3c2e7b05560/mona%20vickie.png)
 
 
 Hi, I’m Victoria, and I love using data to uncover insights and improve decisions.
