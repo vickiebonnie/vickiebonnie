@@ -1,5 +1,6 @@
 
-![ Data Analyst and Data specialist](https://sdmntprpolandcentral.oaiusercontent.com/files/00000000-7e50-620a-aaa6-2ffa3a8b2df0/raw?se=2025-07-26T01%3A51%3A04Z&sp=r&sv=2024-08-04&sr=b&scid=2406ba5c-881e-5221-85a9-1cb0384b3c86&skoid=0da8417a-a4c3-4a19-9b05-b82cee9d8868&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-25T20%3A40%3A45Z&ske=2025-07-26T20%3A40%3A45Z&sks=b&skv=2024-08-04&sig=BUuWunmK8X9Aeg13xpjnkK02TwqkVxAKNo4L6fSBPC4%3D)
+![ Data Analyst and Data specialist](<img width="1584" height="396" alt="Black and White Modern Professional Sales and Marketing Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/4ee5c7e2-c9f8-4ebd-bdb6-d0cf42151f50" />
+)
 
 Hi, I’m Victoria, and I love using data to uncover insights and improve decisions.
 
