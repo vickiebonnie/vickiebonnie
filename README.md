@@ -1,6 +1,5 @@
 
-![ Data Analyst and Data specialist](<img width="1584" height="396" alt="Black and White Modern Professional Sales and Marketing Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/4ee5c7e2-c9f8-4ebd-bdb6-d0cf42151f50" />
-)
+
 
 Hi, I’m Victoria, and I love using data to uncover insights and improve decisions.
 
