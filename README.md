@@ -5,7 +5,7 @@ Hi, I’m Victoria, and I love using data to uncover insights and improve decisi
 
 My passion for data began when I was promoted from the Customer Service department to the Premium Administration team, where I worked with large volumes of policy and billing data. That shift opened my eyes to the power of data in driving business decisions and solving real-world problems.
 
-Since then, I’ve used Excel functions like VLOOKUP, CONCATENATE, and TRANSPOSE to clean and organize data, prevent billing errors, and reduce overdeductions by 60%. Every task has shown me the value of data in driving business growth, and it has motivated me to take the next step.
+Since then, I’ve used Excel functions like VLOOKUP, CONCATENATE and TRANSPOSE to clean and organize data, prevent billing errors, and reduce overdeductions by 60%. Every task has shown me the value of data in driving business growth, and it has motivated me to take the next step.
 
 I’m now transitioning into Data Analytics, learning new tools and building a career focused on using data to solve problems, support decision-making and create value
 
